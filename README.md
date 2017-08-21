@@ -77,6 +77,6 @@ Translations are periodically pulled from Transifex and merged into the git repo
 [translation process](doc/translation_process.md) for details on how this works.
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
+pull from Transifex would automatically overwrite them again. Thank you.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
